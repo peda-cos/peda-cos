@@ -23,7 +23,7 @@
 [![FdF](./badges/fdfe.png)](https://github.com/peda-cos/FdF)
 [![Push_Swap](./badges/push_swape.png)](https://github.com/peda-cos/push_swap)
 [![Philosophers](./badges/philosopherse.png)](https://github.com/peda-cos/Philosophers)
-[![Minishell](./badges/minishelln.png)](https://github.com/peda-cos/minishell)
+[![Minishell](./badges/minishelle.png)](https://github.com/peda-cos/minishell)
 
 ---
 
