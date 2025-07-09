@@ -1,5 +1,3 @@
-![peda-cos's 42 profile](https://42term.vercel.app/api/widget/student/peda-cos?theme=dark)
-
 ### 🚀 Technologies & Tools
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
