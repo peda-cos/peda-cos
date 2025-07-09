@@ -22,7 +22,9 @@
 [![Push_Swap](./badges/push_swape.png)](https://github.com/peda-cos/push_swap)
 [![Philosophers](./badges/philosopherse.png)](https://github.com/peda-cos/Philosophers)
 [![Minishell](./badges/minishelle.png)](https://github.com/peda-cos/minishell)
-[![Minishell](./badges/netpracticee.png)](https://github.com/peda-cos/net_practice)
+[![NetPractice](./badges/netpracticee.png)](https://github.com/peda-cos/net_practice)
+[![CPP Modules](./badges/cppn.png)](https://github.com/peda-cos/CPP_Piscine)
+
 ---
 
 ### 🌐 Connect with Me
