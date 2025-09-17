@@ -24,6 +24,7 @@
 [![Minishell](./badges/minishelle.png)](https://github.com/peda-cos/minishell)
 [![NetPractice](./badges/netpracticee.png)](https://github.com/peda-cos/net_practice)
 [![CPP Modules](./badges/cppn.png)](https://github.com/peda-cos/CPP_Piscine)
+[![Cub3d](./badges/cub3dn.png)](https://github.com/jonnathan-ls/42-cursus-cub3d)
 
 ---
 
