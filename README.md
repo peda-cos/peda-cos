@@ -1,13 +1,10 @@
-### 🚀 Technologies & Tools
+### 🚀 Languages
 
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ---
 
@@ -25,7 +22,7 @@
 [![Minishell](./badges/minishelle.png)](https://github.com/peda-cos/minishell)
 [![NetPractice](./badges/netpracticee.png)](https://github.com/peda-cos/net_practice)
 [![CPP Modules](./badges/cppn.png)](https://github.com/peda-cos/CPP_Piscine)
-[![Cub3d](./badges/cub3dn.png)](https://github.com/jonnathan-ls/42-cursus-cub3d)
+[![Cub3d](./badges/cub3de.png)](https://github.com/jonnathan-ls/42-cursus-cub3d)
 
 ---
 
