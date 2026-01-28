@@ -22,8 +22,9 @@
 [![Philosophers](./badges/philosopherse.png)](https://github.com/peda-cos/Philosophers)
 [![Minishell](./badges/minishelle.png)](https://github.com/peda-cos/minishell)
 [![NetPractice](./badges/netpracticee.png)](https://github.com/peda-cos/net_practice)
-[![CPP Modules](./badges/cppn.png)](https://github.com/peda-cos/CPP_Piscine)
+[![CPP Modules](./badges/cppe.png)](https://github.com/peda-cos/CPP_Piscine)
 [![Cub3d](./badges/cub3de.png)](https://github.com/jonnathan-ls/42-cursus-cub3d)
+[![Inception](./badges/inceptionn.png)](https://github.com/peda-cos/inception)
 
 ---
 
