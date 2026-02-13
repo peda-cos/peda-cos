@@ -25,6 +25,7 @@
 [![CPP Modules](./badges/cppe.png)](https://github.com/peda-cos/CPP_Piscine)
 [![Cub3d](./badges/cub3de.png)](https://github.com/jonnathan-ls/42-cursus-cub3d)
 [![Inception](./badges/inceptionn.png)](https://github.com/peda-cos/inception)
+[![WebServ](./badges/webservn.png)](https://github.com/peda-cos/webserv)
 
 ---
 
