@@ -16,7 +16,7 @@
 [![Printf](./badges/ft_printfe.png)](https://github.com/peda-cos/ft_printf)
 [![get_next_line](./badges/get_next_linee.png)](https://github.com/peda-cos/get_next_line)
 [![Born2beroot](./badges/born2berootm.png)](https://github.com/peda-cos/Born2beroot)
-[![Pipex](./badges/pipexe.png)](https://github.com/peda-cos/Pipex)
+[![Pipex](./badges/pipexe.png)](https://github.com/peda-cos/pipex)
 [![FdF](./badges/fdfe.png)](https://github.com/peda-cos/FdF)
 [![Push_Swap](./badges/push_swape.png)](https://github.com/peda-cos/push_swap)
 [![Philosophers](./badges/philosopherse.png)](https://github.com/peda-cos/Philosophers)
